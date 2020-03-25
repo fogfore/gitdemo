@@ -1,11 +1,10 @@
-#include<stdlib.h>
+nclude<stdlib.h>
 #include<stdio.h>
 
 int main(int arg, char* argv[]){
     printf("inited by SCM.\n");
     printf("develop branch created by SCM.\n");
-<<<<<<< HEAD
-    printf("yueyinghao\n");
-=======
->>>>>>> 4d6cb68b8162b40f56d197451f96953b647214c0
+    printf("function01 added by dev01.\n"); 
+    printf("function02 is added by dev02.\n"); 
+   
 }
